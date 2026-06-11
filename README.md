@@ -15,11 +15,11 @@ Software engineer with an Erasmus Mundus Joint MSc in Software Engineering, buil
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/ahnaf-huq/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_URL" target="_blank">
+<a href="https://www.instagram.com/ahnaf.huq/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
 </a>
 
@@ -27,7 +27,7 @@ Software engineer with an Erasmus Mundus Joint MSc in Software Engineering, buil
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:tahmidulhuq4156@gmail.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
 </a>
 </p>
@@ -84,7 +84,7 @@ Software engineer with an Erasmus Mundus Joint MSc in Software Engineering, buil
 
 ## 📊 Most Used Languages
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-huq&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -95,9 +95,9 @@ Software engineer with an Erasmus Mundus Joint MSc in Software Engineering, buil
 ### Erasmus Mundus Joint Master's Degree – Software Engineers for the Green Deal (SE4GD)
 
 * [Università degli Studi dell'Aquila](https://www.univaq.it/index.php)
-* [LUT University](YOUR_LINK)
-* [Vrije Universiteit Amsterdam](YOUR_LINK)
-* [University of Amsterdam](YOUR_LINK)
+* [LUT University](https://www.lut.fi/fi)
+* [Vrije Universiteit Amsterdam](https://vu.nl/nl)
+* [University Van Amsterdam](https://www.uva.nl/)
 
 ---
 
