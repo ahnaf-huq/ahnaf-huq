@@ -1,31 +1,107 @@
-# Hi, I'm Ahnaf Huq
+<h1 align="center">Hi 👋, I'm Ahnaf Huq</h1>
 
-### Software Engineer | Cloud, DevOps & Platform Engineering
+<p align="center">
 
-Erasmus Mundus Joint MSc graduate in Software Engineering, passionate about building cloud-native and sustainability-focused solutions.
+`Software Engineer • Cloud • DevOps • Platform Engineering`
 
-My background combines software engineering, cloud technologies, and sustainable digital transformation. Through international study and collaborative projects across Europe, I have developed experience working in multicultural environments and solving complex technical challenges with a practical, user-focused mindset.
+</p>
 
-I am currently seeking opportunities in:
-
-* Cloud Engineering
-* DevOps Engineering
-* Platform Engineering
-* Data Engineering
-* Software Development
+<p align="center">
+Software engineer with an Erasmus Mundus Joint MSc in Software Engineering, building cloud-native solutions with a focus on sustainability, scalability, and long-term impact.
+</p>
 
 ---
 
-## Education
+## 🌐 Connect with Me
 
-**Erasmus Mundus Joint Master's Degree (EMJM)**
-**Software Engineers for the Green Deal (SE4GD)**
+<p align="left">
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+</a>
 
-An international programme focused on software engineering, sustainability, cloud technologies, and digital transformation.
+<a href="YOUR_INSTAGRAM_URL" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/ahnaf-huq" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+</a>
+</p>
 
 ---
 
-## Certifications
+## ⚙️ Languages & Tools
+
+<p align="left">
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://github.com/features/actions" target="_blank">
+<img src="https://cdn.simpleicons.org/githubactions" width="45" height="45"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+</a>
+
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-huq&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Education
+
+### Erasmus Mundus Joint Master's Degree – Software Engineers for the Green Deal (SE4GD)
+
+* [Università degli Studi dell'Aquila](https://www.univaq.it/index.php)
+* [LUT University](YOUR_LINK)
+* [Vrije Universiteit Amsterdam](YOUR_LINK)
+* [University of Amsterdam](YOUR_LINK)
+
+---
+
+## 📜 Certifications
 
 * Microsoft Azure Fundamentals (AZ-900)
 * Cisco CyberOps Associate
@@ -34,38 +110,14 @@ An international programme focused on software engineering, sustainability, clou
 
 ---
 
-## Technical Areas
+## 📌 Featured Projects
 
-* Cloud Computing
-* DevOps Practices
-* Platform Engineering
-* Software Development
-* Data Engineering
-* Sustainable Software Engineering
-* CI/CD
-* Infrastructure Automation
+Coming soon.
+
+Cloud-native applications, DevOps workflows, sustainable software engineering projects, and data-driven solutions.
 
 ---
 
-## Featured Projects
+## 📍 Engineering Philosophy
 
-Project showcase coming soon.
-
-Selected repositories will highlight:
-
-* Cloud-native applications
-* DevOps workflows
-* Infrastructure as Code
-* Sustainable software engineering projects
-* University and research projects
-
----
-
-## Connect
-
-* LinkedIn: [Add Link]
-* Email: [Add Email]
-
----
-
-*"Building reliable software and cloud solutions with sustainability in mind."*
+> Build systems that are simple, scalable, maintainable, and sustainable.
