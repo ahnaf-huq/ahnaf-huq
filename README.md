@@ -110,13 +110,41 @@ Software engineer with an Erasmus Mundus Joint MSc in Software Engineering, buil
 
 ---
 
+
 ## 📌 Featured Projects
 
-Coming soon.
+### ⚡ [Pokémon Tinder](https://github.com/ahnaf-huq/Pokemon-Tinder)
 
-Cloud-native applications, DevOps workflows, sustainable software engineering projects, and data-driven solutions.
+Modern web application showcasing frontend development, API integration, and interactive user experiences.
+
+**Focus:** TypeScript • React • Frontend Engineering
 
 ---
+
+### 🌱 [GreenLab](https://github.com/ahnaf-huq/GreenLab)
+
+Research-oriented sustainability project developed during the Erasmus Mundus SE4GD programme.
+
+**Focus:** Sustainable Software Engineering
+
+---
+
+### 🔗 [Traceable Ledger](https://github.com/SE4GD-Capstone-Project/traceable-ledger)
+
+Capstone project exploring transparency, traceability, and sustainability considerations in digital systems.
+
+**Focus:** Software Engineering • Sustainability
+
+---
+
+### 🐄 [WEoT – Internet of Cows](https://github.com/hieuhuynh1752/WEoT-Internet-Of-Cows)
+
+IoT-based project investigating connected systems, monitoring, and data collection in agricultural environments.
+
+**Focus:** IoT • Data Collection
+
+---
+
 
 ## 📍 Engineering Philosophy
 
