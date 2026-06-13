@@ -129,7 +129,7 @@ A portfolio demo showing how Microsoft Power Platform can support sustainability
 
 ---
 
-### 🔗 [Traceable Ledger](https://github.com/SE4GD-Capstone-Project/traceable-ledger)
+### 🔗 [Sustainable Products Traceable Ledger Project](https://github.com/SE4GD-Capstone-Project/traceable-ledger)
 
 Capstone project exploring transparency, traceability, and sustainability considerations in digital systems.
 
