@@ -121,11 +121,11 @@ Modern web application showcasing frontend development, API integration, and int
 
 ---
 
-### 🌱 [GreenLab](https://github.com/ahnaf-huq/GreenLab)
+### 📈 [Sustainability Issue Tracker with Power Platform](https://github.com/ahnaf-huq/sustainability-issue-tracker-power-platform)
 
-Research-oriented sustainability project developed during the Erasmus Mundus SE4GD programme.
+A portfolio demo showing how Microsoft Power Platform can support sustainability-aware software delivery. The project uses Power Apps for issue logging, SharePoint Lists as the data source, Power Automate for high-priority notifications, and Power BI for dashboarding. This is tied to the MSc thesis framework FISC but based on Microsoft Power Platform instead of Atlassian. 
 
-**Focus:** Sustainable Software Engineering
+**Focus:** low-code business apps, workflow automation, sustainability-aware software engineering, technical debt tracking  
 
 ---
 
@@ -137,11 +137,12 @@ Capstone project exploring transparency, traceability, and sustainability consid
 
 ---
 
-### 🐄 [WEoT – Internet of Cows](https://github.com/hieuhuynh1752/WEoT-Internet-Of-Cows)
+### 🌱 [GreenLab](https://github.com/ahnaf-huq/GreenLab)
 
-IoT-based project investigating connected systems, monitoring, and data collection in agricultural environments.
+Research-oriented sustainability project developed during the Erasmus Mundus SE4GD programme.
 
-**Focus:** IoT • Data Collection
+**Focus:** Sustainable Software Engineering
+
 
 ---
 
